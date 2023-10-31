@@ -30,8 +30,7 @@
 
 ### 🏆 Achievements
 
-- Successfully hacked government websites of Turkmenistan
-- Successfully hacked over 20 private websites in Turkmenistan
+- At the request of companies, I searched for vulnerabilities on their websites and successfully eliminated them, providing them with assistance and support
 
 ### 📚 Additional Information
 
