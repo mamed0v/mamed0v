@@ -52,6 +52,4 @@
 ㅤㅤㅤ**Shadowsock and OpenVPN Deployment Script with Telegram Binding:**
 - [Telegram Shadowsocks OpenVPN](https://github.com/mamed0v/shadowsocks-open-vpn-panel) - A script for deploying ShadowSock OpenVPN on a Linux server with Telegram binding.
 
-**If you've read this far, you're probably interested in this resume, and if you want to learn more, you can read the extended resume "link".**
-
 ### I would be happy to answer your questions and discuss collaboration opportunities!
