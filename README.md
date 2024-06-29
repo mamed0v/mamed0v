@@ -1,54 +1,81 @@
-## Python Developer
+# Bakhtiyar Mamedov
+## Python Developer | NLP & Computer Vision Specialist
 
-### :octocat: Bakhdiyar Mamedov :octocat:
+📞 Phone: +993 65 888188  
+📧 Email: 31mb41@gmail.com  
+🌐 GitHub: [github.com/mamed0v](https://github.com/mamed0v)
 
-📞 Phone: +993 65 888188
-📧 Email: albertborman11@gmail.com
-🌐 Portfolio: [github.com](https://github.com/albertborman11) :shipit:
+---
 
-### 📚 Education
+## Professional Experience
+
+### Python Developer, Jan Tehnologiýa, Ashgabat, Turkmenistan
+*March 2023 - Present*
+
+#### BeletFilm Project [belet.me](https://belet.me/)
+- Development and maintenance of APIs using Python, FastAPI, and AI
+- Creation of efficient and scalable databases using ClickHouse and Redis
+- Code optimization for performance improvement and enhanced user experience
+- Implementation of a synchronous speech translation system
+- Development of a subtitle translation system for the Turkmen language
+- Creation of a nude content detector for video (Nude Detector)
+
+#### Start Project (Messenger)
+- Development of a Turkmen language detection system based on text
+- Creation of a translator based on the NLLB-200 model
+- Consultation on the implementation of facial recognition technology (Face Recognition)
+
+#### Belet Video Project
+- Technical support and consultations on recommendation systems
+
+---
+
+## Skills
+
+- **Programming Languages:** Python, BASH, SQL
+- **Frameworks and Libraries:** FastAPI, NumPy, Pandas, scikit-learn, TensorFlow, Transformers, OpenCV
+- **Areas of Expertise:** NLP, Machine Learning, Computer Vision, API Development, Speech Processing
+- **Databases:** ClickHouse, Redis, PostgreSQL, SQLite, MySQL
+- **Development Tools:** Git, GitHub, GitLab
+- **Operating Systems:** Linux, macOS, Windows
+
+---
+
+## Projects
+
+### TurkmenGPTbot [(Telegram)](https://t.me/TurkmenGPTbot)
+- Research project in the field of NLP
+- Development and training of a language model for the Turkmen language
+
+### [TurkmenSentenceDataset](https://github.com/mamed0v/TurkmenSentenceDataset.git)
+- Creation and curation of the largest dataset of Turkmen sentences
+- Contribution to the development of NLP resources for the Turkmen language
+
+### [Article-to-Video](https://github.com/AlbertBorman11/article-to-video)
+- Automation of video creation from text articles with voice generation
+
+### [ICQ Bots](https://github.com/AlbertBorman11?tab=repositories)
+- Development of popular bots for ICQ, including games and utilities
+
+---
+
+## Education
 
 - Self-education in programming through books and online courses
+- Continuous improvement of skills in Machine Learning, NLP, and Computer Vision
 
-### 👨‍💻 Professional Experience
+---
 
-#### Python Developer, Jan Tehnologiýa, Ashgabat, Turkmenistan [belet.me](https://belet.me/)
+## Achievements
 
-- Developing and maintaining APIs using Python, FastAPI, and AI
-- Creating efficient and scalable databases using ClickHouse and Redis
-- Developing and integrating RESTful APIs to interact with other services
-- Involvement in the entire development process, from design to deployment and product support
-- Optimizing code for performance improvement and enhancing user experience
+- Successful identification and elimination of vulnerabilities on websites upon company requests
+- Significant contribution to the development of NLP resources for the Turkmen language
+- Development of innovative solutions in the field of computer vision and natural language processing
 
-### 💻 Skills
+---
 
-- Programming Languages: Python, BASH, SQL
-- Frameworks: FastAPI, numpy, pandas, sklearn, TensorFlow
-- Databases: ClickHouse, Redis, PostgreSQL, SQLite, MySQL
-- Collaboration Tools: Git, GitHub, GitLab
-- Operating Systems: Linux, macOS, Windows
-
-### 🏆 Achievements
-
-- At the request of companies, I searched for vulnerabilities on their websites and successfully eliminated them, providing them with assistance and support
-
-### 📚 Additional Information
+## Additional Information
 
 - Open to teamwork and learning new technologies
 - Passionate about software development and constantly improving skills
-- Open to new challenges and willing to relocate
-
-### 📃 Projects
-
-- [Article-to-Video](https://github.com/AlbertBorman11/article-to-video) - This program takes an article link, parses it, generates voiceover, and creates a video. It then generates a proper thumbnail using a large font. After all the manipulations, the video is uploaded to Google Drive.
-- [Joke Parser :bowtie:](https://github.com/AlbertBorman11/joke-parser) - This program scrapes certain joke websites and provides a new joke every time.
-
-ㅤㅤㅤ**ICQ Bots:**
-- [Rock Paper Scissors](https://github.com/AlbertBorman11/icq-game-bot-KNB) - A bot for playing rock paper scissors, known as RPS, gained significant popularity with an audience of 10,000 people.
-- [TempMail](https://github.com/AlbertBorman11/icq-bot-tempmail) - A bot for quickly receiving temporary emails through a messenger.
-- [ChatGPT](https://github.com/AlbertBorman11/icq-bot-chatgpt) - A bot for communicating with ChatGPT through the official API. The bot includes a balance system, free trials, token limits for different tariffs, an admin menu for balance top-ups, and subscription checks for specific channels.
-
-ㅤㅤㅤ**Shadowsock and OpenVPN Deployment Script with Telegram Binding:**
-- [Telegram Shadowsocks OpenVPN](https://github.com/mamed0v/shadowsocks-open-vpn-panel) - A script for deploying ShadowSock OpenVPN on a Linux server with Telegram binding.
-
-### I would be happy to answer your questions and discuss collaboration opportunities!
+- Ready for new challenges and relocation if necessary
